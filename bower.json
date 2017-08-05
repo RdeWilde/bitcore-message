@@ -1,18 +1,18 @@
 {
-  "name": "bitcore-message",
-  "main": "./bitcore-message.min.js",
+  "name": "ioncore-message",
+  "main": "./ioncore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-message",
+  "homepage": "https://github.com/rdewilde/ioncore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "description": "Bitcoin Message Verification and Signing for ioncore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
     "bitcoin",
-    "bitcore",
+    "ioncore",
     "btc",
     "satoshi",
     "message",

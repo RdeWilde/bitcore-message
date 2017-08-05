@@ -1,4 +1,4 @@
-var bitcore = require('bitcore-lib');
-bitcore.Message = require('./lib/message');
+var ioncore = require('ioncore-lib');
+ioncore.Message = require('./lib/message');
 
-module.exports = bitcore.Message;
+module.exports = ioncore.Message;
